@@ -2,7 +2,7 @@
  - This repository is a place for practices in Industrial AI lab classes in Fall 2023.
 
 ## Lab #1. Basic skills for Python coding
- - [How to install Python, IDE, and modules](python-basic-skills.md)
+ - [How to install Python, IDE, and modules](how-to-install-env.md)
 
 ## Lab #2. Industrial data
 
