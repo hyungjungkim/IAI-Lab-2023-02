@@ -7,6 +7,7 @@
  - [How to install Python, IDE, and modules](how-to-install-python-env.md)
 
 ## Lab #2. Industrial data
+ - [Sample data and links](/practice-industrial-data.md)
 
 ## Lab #3. TBD
 
