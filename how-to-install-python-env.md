@@ -4,7 +4,7 @@
  - Visit the official website: https://www.python.org/downloads/
  - Download the latest version for your operating system and install it.
 
-## IDE(Integrated Development Environment) – MS Code
+## IDE (Integrated Development Environment) – MS Code
  - Visit the official website: https://code.visualstudio.com/
  - Download the latest version for your operating system and install it.
 
