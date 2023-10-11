@@ -1,6 +1,5 @@
 # Sample datasets and codes for the data mining techniques lab
 
-## Sample dataset
 1. Simple linear regression
     * [Oxygen purity dataset](/data-samples/oxygen-purity.csv)
     * The dataset shows a positive relationship between the percentage of hydrocarbons and the purity of oxygen.
@@ -8,6 +7,7 @@
 2. Multpile linear regression
     * [Gas production dataset](/data-samples/gas-production.csv)
     * The dataset contains relationships among various gas production features.
+    * [Python code - multiple-linear-regression](/data-samples/multiple-linear-regression.py)
 
 3. k-NN classficiation
     * [Iris dataset](/data-samples/iris.csv)
@@ -30,6 +30,7 @@
 8. Principal Component Analysis (PCA)
     * [Amazon top selling book dataset](/data-samples/amazon-top-selling-book.csv)
     * The dataset contatins top selling books information from 2009 to 2019.
+    * [Partial Python code - PCA](/data-samples/pca-dimension-reduction-only%20plot.py)
 
 9. Correlation analsysi and heat map
     * Use the same dataset for PCA.
