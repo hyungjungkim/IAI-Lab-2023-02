@@ -9,6 +9,8 @@
 ## Lab #2. Industrial data
  - [Sample data for the lab](/practice-industrial-data.md)
 
-## Lab #3. TBD
+## Lab #3. Industrial IoT
+ - [Raspberry Pi information](/raspberry-pi-practice.md)
 
-...
+## Lab #4. Data mining techniques
+ - [Sample data and code for the lab](/data-mining-techniques.md)
