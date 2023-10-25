@@ -14,3 +14,6 @@
 
 ## Lab #4. Data mining techniques
  - [Sample data and code for the lab](/data-mining-techniques.md)
+
+## Lab #5. Deep learning techniques
+ - [Sample data and code for the lab](/deep-learning-techniques.md)
