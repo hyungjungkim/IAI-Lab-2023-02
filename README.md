@@ -18,11 +18,8 @@
 ## Lab #5. Deep learning techniques
  - [Sample data and code for the lab](/deep-learning-techniques.md)
 
- ## Lab #6. Computer vision techniques I
+## Lab #6. Computer vision techniques I
   - [Sample data (images) for the lab](/computer-vision-techniques-I.md)
   
-  ## Lab #6. Computer vision techniques I
-  - [Sample data (images) for the lab](/computer-vision-techniques-I.md)
-
-  ## Lab #7. Computer vision techniques II
+## Lab #7. Computer vision techniques II
   - [Sample data (images and codes) for the lab](/computer-vision-techniques-II.md)
