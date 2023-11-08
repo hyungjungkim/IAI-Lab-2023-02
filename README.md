@@ -21,3 +21,8 @@
  ## Lab #6. Computer vision techniques I
   - [Sample data (images) for the lab](/computer-vision-techniques-I.md)
   
+  ## Lab #6. Computer vision techniques I
+  - [Sample data (images) for the lab](/computer-vision-techniques-I.md)
+
+  ## Lab #7. Computer vision techniques II
+  - [Sample data (images and codes) for the lab](/computer-vision-techniques-II.md)

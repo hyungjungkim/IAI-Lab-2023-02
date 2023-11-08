@@ -1,4 +1,6 @@
-# Sample datasets and codes for the deep learning techniques lab II
+# Sample datasets and codes for the computer vision lab II
+
+These images are prepared for the lab practice. You can also freely use your image or images from online searching in the lab.
 
 1. Linear filters – Gaussian filter 
     * [3D printing image - gray ver.](/data-samples/sample-3d-printing-gray.jpg)
